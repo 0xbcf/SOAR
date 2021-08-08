@@ -1,0 +1,1 @@
+# Requirements: pywinrm, logging
